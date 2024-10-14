@@ -24,7 +24,7 @@ Hello! I'm Adrian, a passionate software developer with a focus on web developme
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuinnDev89&show_icons=true&theme=radical)
 
 ## ✉️ Let's Connect!
 
