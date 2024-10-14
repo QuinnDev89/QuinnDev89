@@ -5,9 +5,9 @@ Hello! I'm Adrian, a passionate software developer with a focus on web developme
 ## 🚀 Skills
 
 - **Languages:** JavaScript, Python, C#, SQL, HTML, CSS
-- **Frameworks/Libraries:** React.js, Node.js, .NET, Tailwind CSS, Bootstrap, Material UI
-- **Databases:** MySQL, Firebase
-- **Tools:** Git, Docker, Jira, Trello
+- **Frameworks/Libraries:**Angular, React.js, Node.js, .NET, Tailwind CSS, Bootstrap, Material UI
+- **Databases:** MySQL, Firebase, MongoDB
+- **Tools:** Git, Docker, Jira
 - **Other:** Agile Methodologies, Testing, Deployment
 
 ## 🌱 Currently Learning
