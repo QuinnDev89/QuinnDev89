@@ -28,7 +28,7 @@ Hello! I'm Adrian, a passionate software developer with a focus on web developme
 
 ## ✉️ Let's Connect!
 
-- **LinkedIn:** [Your LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/adrian-marquez-ortiz-501805175/))
+- **LinkedIn:** [Your LinkedIn]([www.linkedin.com/in/adrian-marquez-or89])
 - **Email:** admaor2000@gmail.com
 
 Feel free to explore my repositories, open issues, or suggest improvements! I'm always open to new ideas and collaborations.
