@@ -18,7 +18,7 @@ Hello! I'm Adrian, a passionate software developer with a focus on web developme
 
 ## 🛠️ Projects
 
-- **Sneakers Store Dashboard:** An admin dashboard for managing sneaker inventory, orders, and more.
+- **Sneakers Store Dashboard:** A commercial page for the sale of Jolu snekers
 - **Interactive Task Manager:** A Kanban-style task management tool for agile teams.
 - **Calculator App:** A basic calculator built with JavaScript to strengthen fundamental skills.
 
